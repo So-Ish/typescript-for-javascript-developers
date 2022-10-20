@@ -16,5 +16,8 @@
     "url": "https://github.com/So-Ish/typescript-for-javascript-developers/issues"
   },
   "homepage": "https://github.com/So-Ish/typescript-for-javascript-developers#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
